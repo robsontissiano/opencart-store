@@ -1,0 +1,21 @@
+2015-10-14 20:14:57 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:17:34 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:17:37 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:18:26 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:18:27 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwcosme/public_html/sos/admin/index.php:81) in /home/wwwcosme/public_html/sos/system/engine/controller.php on line 28
+2015-10-14 20:18:27 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwcosme/public_html/sos/admin/index.php:81) in /home/wwwcosme/public_html/sos/system/engine/controller.php on line 29
+2015-10-14 20:19:27 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:19:33 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:19:36 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:19:37 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:19:37 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:20:08 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:20:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwcosme/public_html/sos/admin/index.php:81) in /home/wwwcosme/public_html/sos/system/engine/controller.php on line 28
+2015-10-14 20:20:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wwwcosme/public_html/sos/admin/index.php:81) in /home/wwwcosme/public_html/sos/system/engine/controller.php on line 29
+2015-10-14 20:20:51 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:22:04 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:25:59 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-14 20:28:52 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-15 3:30:24 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-15 14:26:18 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
+2015-10-16 22:58:19 - PHP Notice:  Error: Could not load language portuguese-br! in /home/wwwcosme/public_html/sos/system/library/language.php on line 39
