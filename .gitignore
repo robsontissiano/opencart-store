@@ -1,6 +1,8 @@
 #zip installation files
 zips/*
 install_old
+system/cache*
+image/cache/*
 
 # Config and Htaccess Files
 /upload/.htaccess
